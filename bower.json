@@ -1,0 +1,9 @@
+{
+  "name": "yoga",
+  "description": "landing page",
+  "devDependencies": {
+    "page-scroll-to-id": "^1.5.8",
+    "normalize-css": "^8.0.0",
+    "fancybox": "^3.2.5"
+  }
+}
